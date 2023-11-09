@@ -1,5 +1,6 @@
 //a class for making button objects
 class Button {
+  float bugged_value;
   float xPosition;
   float yPosition;
   float w;
